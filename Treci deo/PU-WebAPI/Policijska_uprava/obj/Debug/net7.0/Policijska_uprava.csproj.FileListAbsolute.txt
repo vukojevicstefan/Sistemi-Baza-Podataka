@@ -1,0 +1,36 @@
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Treci deo\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.csproj.AssemblyReference.cache
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Treci deo\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Treci deo\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.AssemblyInfoInputs.cache
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Treci deo\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.AssemblyInfo.cs
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Treci deo\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.csproj.CoreCompileInputs.cache
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Treci deo\PU-WebAPI\Policijska_uprava\bin\Debug\net7.0\Policijska_uprava.deps.json
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Treci deo\PU-WebAPI\Policijska_uprava\bin\Debug\net7.0\Policijska_uprava.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Treci deo\PU-WebAPI\Policijska_uprava\bin\Debug\net7.0\Policijska_uprava.pdb
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Treci deo\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Treci deo\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\refint\Policijska_uprava.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Treci deo\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.pdb
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Treci deo\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\ref\Policijska_uprava.dll
+C:\Users\Stole\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.csproj.AssemblyReference.cache
+C:\Users\Stole\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stole\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.AssemblyInfoInputs.cache
+C:\Users\Stole\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.AssemblyInfo.cs
+C:\Users\Stole\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.csproj.CoreCompileInputs.cache
+C:\Users\Stole\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.dll
+C:\Users\Stole\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\refint\Policijska_uprava.dll
+C:\Users\Stole\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.pdb
+C:\Users\Stole\Desktop\PU-WebAPI\Policijska_uprava\bin\Debug\net7.0\Policijska_uprava.deps.json
+C:\Users\Stole\Desktop\PU-WebAPI\Policijska_uprava\bin\Debug\net7.0\Policijska_uprava.dll
+C:\Users\Stole\Desktop\PU-WebAPI\Policijska_uprava\bin\Debug\net7.0\Policijska_uprava.pdb
+C:\Users\Stole\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\ref\Policijska_uprava.dll
+C:\Users\PC\Desktop\PU-WebAPI\Policijska_uprava\bin\Debug\net7.0\Policijska_uprava.deps.json
+C:\Users\PC\Desktop\PU-WebAPI\Policijska_uprava\bin\Debug\net7.0\Policijska_uprava.dll
+C:\Users\PC\Desktop\PU-WebAPI\Policijska_uprava\bin\Debug\net7.0\Policijska_uprava.pdb
+C:\Users\PC\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.AssemblyInfo.cs
+C:\Users\PC\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.dll
+C:\Users\PC\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\refint\Policijska_uprava.dll
+C:\Users\PC\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\Policijska_uprava.pdb
+C:\Users\PC\Desktop\PU-WebAPI\Policijska_uprava\obj\Debug\net7.0\ref\Policijska_uprava.dll

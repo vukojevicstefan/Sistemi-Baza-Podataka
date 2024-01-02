@@ -1,0 +1,10 @@
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Reflection;
+global using System.Threading.Tasks;
+global using System.Text;
+global using Policijska_uprava;
+global using Policijska_uprava.DTOs;
+global using Policijska_uprava.Entiteti;
+global using Policijska_uprava.Mapiranja;
